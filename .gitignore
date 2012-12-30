@@ -1,0 +1,8 @@
+.*
+*~
+*.o
+arccrc16
+crc_16f
+crc_32
+checksum
+checkexe
